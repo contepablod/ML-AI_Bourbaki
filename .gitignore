@@ -192,8 +192,8 @@ pyrightconfig.json
 .history
 .ionide
 .env
-/Data/Model
-/Data/chest_xray
-/Data/checkpoint.pt
+Data/Model
+Data/chest_xray
+Data/checkpoint.pt
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
