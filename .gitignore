@@ -195,5 +195,9 @@ pyrightconfig.json
 Semana1/Data/Model
 Semana1/Data/chest_xray
 Semana1/checkpoint.pt
-
+Semana1/Data/train_v2
+Semana1/Data/test_v2
+Semana1/Data/test_v2_sampled
+Semana1/Data/train_v2_sampled
+Semana1/Data/checkpoint.model
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
