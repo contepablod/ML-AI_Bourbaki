@@ -200,4 +200,5 @@ Semana1/Data/test_v2
 Semana1/Data/test_v2_sampled
 Semana1/Data/train_v2_sampled
 Semana1/Data/checkpoint.model
+Semana2/LSTM_for_Time_Series.ipynb
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
