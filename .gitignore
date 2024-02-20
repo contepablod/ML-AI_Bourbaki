@@ -192,6 +192,7 @@ pyrightconfig.json
 .history
 .ionide
 .env
+
 Semana1/Data/Model
 Semana1/Data/chest_xray
 Semana1/checkpoint.pt
