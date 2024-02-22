@@ -202,5 +202,4 @@ Semana1/Data/test_v2_sampled
 Semana1/Data/train_v2_sampled
 Semana1/Data/checkpoint.model
 Semana2/t_pl_f
-Semana2/Temporal_Difussion_Transformer.ipynb
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
