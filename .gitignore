@@ -202,4 +202,7 @@ Semana1/Data/test_v2_sampled
 Semana1/Data/train_v2_sampled
 Semana1/Data/checkpoint.model
 Semana2/t_pl_f
+Semana3/Data/Images
+Semana3/best.pt
+Semana3/OpenAI CLIP Simple Implementation.ipynb
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
