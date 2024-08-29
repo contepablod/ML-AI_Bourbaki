@@ -201,6 +201,8 @@ Semana1/Data/test_v2
 Semana1/Data/test_v2_sampled
 Semana1/Data/train_v2_sampled
 Semana1/Data/checkpoint.model
+Semana1/Data/bst_unet.pt
+Semana1/submission.csv
 Semana2/t_pl_f
 Semana2/intro_autorregresivos_v0.ipynb
 Semana3/Data/Images
