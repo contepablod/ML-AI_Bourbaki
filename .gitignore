@@ -193,6 +193,12 @@ pyrightconfig.json
 .ionide
 .env
 
+Semana1/Data/Images
+Semana1/best.pt
+Semana1/OpenAI CLIP Simple Implementation.ipynb
+Semana1/bbc_training_losses_weights.pt
+Semana2/t_pl_f
+Semana2/intro_autorregresivos_v0.ipynb
 Semana3/Data/Model
 Semana3/Data/chest_xray
 Semana3/checkpoint.pt
@@ -205,11 +211,6 @@ Semana3/Data/bst_unet.pt
 Semana3/submission.csv
 Semana3/Data/regression_db.geojson
 Semana3/GCNN.ipynb
-Semana2/t_pl_f
-Semana2/intro_autorregresivos_v0.ipynb
-Semana1/Data/Images
-Semana1/best.pt
-Semana1/OpenAI CLIP Simple Implementation.ipynb
 Semana4/GridBoard-Q.ipynb
 Semana4/gridWorld_Q.py
 Semana4/GridWorld.ipynb
