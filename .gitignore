@@ -197,8 +197,14 @@ Semana1/Data/Images
 Semana1/best.pt
 Semana1/OpenAI CLIP Simple Implementation.ipynb
 Semana1/bbc_training_losses_weights.pt
-Semana2/t_pl_f
 Semana2/intro_autorregresivos_v0.ipynb
+Semana2/lightning_logs
+Semana2/optuna_test
+Semana2/Temporal_Fussion_Transformer_new.ipynb
+Semana2/.lr_find_0c00b997-9e01-4d50-85e5-f97be1b2e07c.ckpt
+Semana2/.lr_find_2c7eea85-3cb0-437c-9fa5-b896803a584f.ckpt
+Semana2/Temporal_Fussion_Transformer.ipynb
+Semana2/Temporal_Fussion_Transformer copy.ipynb
 Semana3/Data/Model
 Semana3/Data/chest_xray
 Semana3/checkpoint.pt
