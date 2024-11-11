@@ -219,6 +219,7 @@ Semana3/Data/bst_unet.pt
 Semana3/submission.csv
 Semana3/Data/regression_db.geojson
 Semana3/GCNN.ipynb
+Semana3/Data/Model/model.pth
 Semana4/GridBoard-Q.ipynb
 Semana4/gridWorld_Q.py
 Semana4/GridWorld.ipynb
