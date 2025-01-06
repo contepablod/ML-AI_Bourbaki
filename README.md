@@ -1,1 +1,2 @@
-![TemarioMLAI](https://github.com/contepablod/ML-AI_Bourbaki/assets/80008587/8a360126-336f-40a7-85f2-758e215cf9de)
+![TemarioMLAI](https://github.com/user-attachments/assets/331de3bf-cd18-4708-9b64-1cee3368b0bd)
+
