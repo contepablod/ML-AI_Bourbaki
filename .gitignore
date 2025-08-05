@@ -213,6 +213,7 @@ Semana2/Temporal_Fussion_Transformer_new.ipynb
 Semana2/Temporal_Fussion_Transformer_pf.ipynb
 Semana2/Data/Model
 Semana2/draft.ipynb
+
 Semana3/Data/Model
 Semana3/Data/chest_xray
 Semana3/checkpoint.pt
@@ -226,6 +227,12 @@ Semana3/submission.csv
 Semana3/Data/regression_db.geojson
 Semana3/GCNN.ipynb
 Semana3/Data/Model/model.pth
+Semana3/Data/filtered_train_ship_segmentations_v2.csv
+Semana3/Data/filtered_sample_submission_v2.csv
+Semana3/U_Net.ipynb
+Semana3/submission.csv
+Semana3/redes_neuronales_intro_pytorch.ipynb
+
 Semana4/GridBoard-Q.ipynb
 Semana4/gridWorld_Q.py
 Semana4/GridWorld.ipynb
