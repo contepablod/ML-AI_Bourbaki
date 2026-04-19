@@ -265,8 +265,8 @@ Semana4/Data/model_ppo_continuous.pth
 Semana4/draft.py
 Semana4/DRL
 Semana4/pomdp_examples.py
-Semana4/intro_Q_learning.ipynb
-Semaman4/intro_multiarmed_bandits.ipynb
+Semana4/intro_QLearning.ipynb
+Semana4/intro_multiarmed_bandits.ipynb
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
 .codex
 .vscode
