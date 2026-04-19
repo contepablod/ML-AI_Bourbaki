@@ -193,6 +193,7 @@ pyrightconfig.json
 .ionide
 .env
 
+#Semana1
 Semana1/Data/Images
 Semana1/Data/bbc
 Semana1/best.pt
@@ -209,9 +210,7 @@ Semana1/Clase_BridgeVLA_Finetuning_RLBench.ipynb
 Semana1/checkpoints
 Semana1/BridgeVLA
 
-
-Semana4/
-
+#Semana
 Semana2/intro_autorregresivos_v0.ipynb
 Semana2/lightning_logs
 Semana2/optuna_test
@@ -224,6 +223,7 @@ Semana2/Temporal_Fussion_Transformer_pf.ipynb
 Semana2/Data/Model
 Semana2/draft.ipynb
 
+#Semana3
 Semana3/Data/Model
 Semana3/Data/chest_xray
 Semana3/checkpoint.pt
@@ -233,7 +233,7 @@ Semana3/Data/test_v2_sampled
 Semana3/Data/train_v2_sampled
 Semana3/Data/checkpoint.model
 Semana3/Data/bst_unet.pt
-Semana3/submission.csv
+Semana3/submission.csv``
 Semana3/GCNN.ipynb
 Semana3/Data/Model/model.pth
 Semana3/Data/filtered_train_ship_segmentations_v2.csv
@@ -248,14 +248,14 @@ Semana3/create_gnn_qe_notebook.py
 Semana3/redes_neuronales_intro_pytorch.ipynb
 Semana3/create_gnn_qe_training_notebook.py
 Semana3/classifier_calibration_example.ipynb
-Semana3/build_tmdb_cache.py
 Semana3/Utils
 Semana3/Data/exports
 Semana3/Data/ml-latest-small.zip
 Semana3/Data/sample_submission_v2.csv
 Semana3/Data/train_ship_segmentations_v2.csv
-Semana3/Data/tmdb_movielens_cache.json
+Semana3/Data/training_history.csv
 
+#Semana4
 Semana4/GridBoard-Q.ipynb
 Semana4/gridWorld_Q.py
 Semana4/GridWorld.ipynb
@@ -263,6 +263,10 @@ Semana4/gridWorld.py
 Semana4/Data/model.pth
 Semana4/Data/model_ppo_continuous.pth
 Semana4/draft.py
+Semana4/DRL
+Semana4/pomdp_examples.py
+Semana4/intro_Q_learning.ipynb
+Semaman4/intro_multiarmed_bandits.ipynb
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
 .codex
 .vscode
