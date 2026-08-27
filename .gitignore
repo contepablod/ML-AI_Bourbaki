@@ -255,6 +255,8 @@ Semana3/Data/ml-latest-small.zip
 Semana3/Data/sample_submission_v2.csv
 Semana3/Data/train_ship_segmentations_v2.csv
 Semana3/Data/training_history.csv
+Semana3/Data/tmdb_movielens_cache.json
+
 
 #Semana4
 Semana4/GridBoard-Q.ipynb
